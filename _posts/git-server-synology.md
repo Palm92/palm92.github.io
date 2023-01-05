@@ -1,11 +1,11 @@
 ---
 title: Git server Synology
-date: 2022-01-06 12:00:00 -5000
+date: 2022-01-06 12:00:00 -500
 categories: [homelab, software]
 tag: [git, synology]        #TAG names should always be lowercase
 ---
 
-# Setup
+# Setup Git server Synology
 ssh gituser@diskstation.local
 mkdir /volume1/homes/gituser/.ssh
 
