@@ -1,6 +1,6 @@
 ---
 title: Git server Synology
-date: 2023-01-06 12:00:00 -500
+date: 2023-01-06 00:00:00 +100
 categories: [homelab, software]
 tag: [git, synology]        #TAG names should always be lowercase
 ---
