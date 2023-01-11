@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welkom, deze homelabs website is van Willard.
+Welkom, deze homelabs website is van Willard Palm.
