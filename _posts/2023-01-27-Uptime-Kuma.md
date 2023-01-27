@@ -1,6 +1,6 @@
 ---
 title: Uptime-Kuma
-date: 2023-01-06 00:00:00 +0100
+date: 2023-01-27 00:00:00 +0100
 categories: [Homelab, Software]
 tag: [docker, synology]        #TAG names should always be lowercase
 ---
